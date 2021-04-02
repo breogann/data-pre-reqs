@@ -8,7 +8,7 @@ brew install python3
 #### 5.2. Installing pip
 
 ```bash
-pip install --upgrade pip
+pip install --upgrade --user pip
 ```
 
 #### 5.3. Installing jupyter

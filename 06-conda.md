@@ -17,7 +17,10 @@ brew install --cask miniconda
 
 #### 6.2. Create an environment
 
-1. Open your **terminal**
+1. Open your **terminal** and:
+    ```bash
+    conda init zsh
+    ```
 2. **Create** an environment
     ```bash
     conda create --name ironhack
