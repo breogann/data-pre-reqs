@@ -1,5 +1,7 @@
 # 2. Git & github
 
+Git is a version control software. It trackes the changes made to a document or a group of documents.
+
 ##### 1. Let's install git:
 ```bash
 brew install git

@@ -40,5 +40,3 @@ a) to check that it does work
 b) for you to become familiar with it
 
 This way, your first day at Ironhack will not be your first time doing this. Trust me, your future self will be very grateful.
-
-
