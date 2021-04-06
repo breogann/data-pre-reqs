@@ -37,7 +37,7 @@ This section is only necessary if the command didn't work.
 7. Repeat the process to check if the command works.
 
 
-### 💻 Creating an alias
+### 💻 Creating an alias
 
 1. Navigate to your `.zshrc` file.
 2. Open it and create an alias:
