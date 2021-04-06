@@ -8,8 +8,8 @@ MySQL and workbench often are difficult to install. If you didn't manage to conn
 - Click on the `+` button
 - Create a connection
 
-If you see something like:
-[workbench_does_not_work]()
+If you see something like (no connection):
+![workbench_does_not_work](imgs/no-connection.png)
 
 It's not working. So follow these steps ⬇️
 
@@ -113,6 +113,10 @@ It should all be set now!
 4.3. If you see this (no red warning on the bottom left), it's now working:
 ![workbench_works](imgs/workbench-works.png)
 
+
+### 5. Doing a query
+
+Go to: https://github.com/breogann/data-pre-reqs/blob/master/08.2-hands-on-workbench.md
 #####
 
 _Refs: https://gist.github.com/vitorbritto/0555879fe4414d18569d_
