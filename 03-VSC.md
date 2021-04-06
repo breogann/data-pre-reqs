@@ -13,7 +13,7 @@ If you look through your apps on your Mac, you'll see it is now installed.
 
 ##### 2. Extensions and configuration
 
-Open VSC. Press the keys: `cmmd + shift + p`
+Open VSC. Press the keys: `cmmd + shift + p`.
 A menu will appear on the top. We will use this for two things. After you pressed the keys, write the following text and click on it to install:
 - Shell command: install 'code' command in PATH
 - Python: select interpreter

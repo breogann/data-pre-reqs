@@ -1,4 +1,4 @@
-#6. Conda
+# 6. Conda
 
 If you're here you probably already installed anaconda. Anaconda is a great tool that glues together a bunch of tools for python. However, there's some downsides to it: one being that it might be slow and also that it takes up too much space on your machine.
 

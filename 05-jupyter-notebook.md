@@ -1,6 +1,7 @@
-#5. Python & Jupyter
+# 5. Python & Jupyter
 
-#### 5.1. Installing python
+#### 5.1. Installing python
+
 ```bash
 brew install python3
 ````

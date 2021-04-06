@@ -1,16 +1,16 @@
 Yes, MacOS does come with a default Terminal installed, but we'll change it to one that is more useful. For that, there's three things we need to install:
 # 4. iTerm2
 
-### 1. Installing iTerm2
+### 1. Installing iTerm2
 ```bash
 brew cask install iterm2
 ```
-
-### 2. Installing zsh
+### 2. Installing zsh
 ```bash
 brew install zsh
 ```
 ### 3. Installing oh-my-zsh
+
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```

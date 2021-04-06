@@ -1,4 +1,4 @@
-#7. MongoDB
+# 7. MongoDB
 
 ```bash
 brew tap mongodb/brew
@@ -15,7 +15,7 @@ brew install --cask mongodb-compass
 
 #### 7.1. Hands-on MongoDB Compass
 
-#####7.1.1. First, we'll download a dataset
+##### 7.1.1. First, we'll download a dataset
 - Open your terminal
 - Go to Downloads (`cd Downloads`, if you're in root)
 
@@ -23,7 +23,7 @@ brew install --cask mongodb-compass
 curl https://atlas-education.s3.amazonaws.com/sampledata.archive -o sampledata.archive
 ```
 
-#####7.1.2. Load the dataset
+##### 7.1.2. Load the dataset
 ```bash
 mongorestore --archive=sampledata.archive
 ````

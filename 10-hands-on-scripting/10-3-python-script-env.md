@@ -55,7 +55,7 @@ pip install pandas
 pip install numpy
 ```
 
-9. Run the file again
+**9. Run the file again**
 ```bash
 python3 importing-things.py
 ```
