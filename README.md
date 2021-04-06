@@ -1,6 +1,10 @@
+
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+# 💻 data prereqs 
+
 In this repository, you will find the ultimate guide to be ready for the data analytics bootcamp at Ironhack (Madrid edition).
 
-## Installation goals:
+## Installation goals
 - Brew, git, VSC, iTerm2, jupyter notebook, conda, mongodb, MySQL & workbench.
 
 ## Skills goals
@@ -19,7 +23,7 @@ If you follow the instructions here:
 
 Follow these steps to get on board the rocket ship 🚀
 
-### 1. What is the OS in your machine? Will you be using a MacOS, a Windows or an Ubuntu/Linux? 
+#### 1. What is the OS in your machine? Will you be using a MacOS, a Windows or an Ubuntu/Linux? 
 
 You will see in the header of the repository, a dropdown menu where you will be able to switch instructions depending on the system you'll be working on.
 
@@ -29,7 +33,8 @@ You will see in the header of the repository, a dropdown menu where you will be 
 
 If you did your prework, some of the things you will already have set up. However, read carefully not to miss anything extra (and valuable) that you can find here.
 
-### 3. After installing each program, there might be an exercise:
+#### 3. After installing each program, there might be an exercise:
+
 
 a) to check that it does work
 b) for you to become familiar with it
