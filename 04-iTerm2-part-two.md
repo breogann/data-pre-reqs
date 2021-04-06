@@ -7,16 +7,15 @@
 5. Open it.
 
 That's it! You now know how to access your `.zshrc` file. 
-
-### 💻 Changing the theme to agnoster
+### 💻 Changing the theme to agnoster
 
 1. Navigate to your `.zshrc` file.
 2. Do `cmmd + F` and look for "robbyrussell".
 3. Substitute that name for `agnoster`
 4. You should have a line like: `ZSH_THEME="agnoster"`
 5. Save: `cmmd + s`.
+### 💻 Checking the `code .` command works.
 
-### 💻 Checking the `code .` command works.
 We tried to install it through VSC earlier. It doesn't always work, so let's check! 
 1. Open your Terminal.
 2. Run `ls`.
@@ -62,7 +61,7 @@ Your output should be: Hello world! If it is, congrats! You just created your fi
 
 **Your iTerm2 is all set 🤩**
 
-# Summing up
+# Summing up
 
 1. Wherever you are in your terminal, you will be able to open VSC from the command line in that same path by running `code .` Trust me, you'll be thankful in the future. 
 2. You now know how to create aliases. This will come in handy for highly used commands. 

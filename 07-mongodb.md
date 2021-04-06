@@ -28,7 +28,7 @@ curl https://atlas-education.s3.amazonaws.com/sampledata.archive -o sampledata.a
 mongorestore --archive=sampledata.archive
 ````
 
-#####7.1.3. Open MongoDB compass
+##### 7.1.3. Open MongoDB compass
 You'll now have various databases to your left. Go to `sample_airbnb` database and then to the collection `listingsAndReviews`. You'll notice you have 5555 documents. 
 
 Hierarchy in mongo is as follows:
