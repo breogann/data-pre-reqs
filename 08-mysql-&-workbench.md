@@ -1,8 +1,8 @@
-#8. MySQL & workbench
+# 8. MySQL & workbench
 
 MySQL and workbench often are difficult to install. If you didn't manage to connect MySQL to workbench, follow these steps:
 
-##8.1. How to know if MySQL and Workbench don't work:
+## 8.1. How to know if MySQL and Workbench don't work:
 
 - Open MySQLWorkbench
 - Click on the `+` button
