@@ -18,9 +18,10 @@ That's it! You now know how to access your `.zshrc` file.
 ### 💻 More configuration for agnoster
 
 1. Open your Terminal.
-2. Do `cmmd + ,`
+2. Do `cmmd` + `,`. Or just go to preferences of iTerm2
 3. Go to Profiles > Text
 4. Check the box for Use built-in Powerline glyphs
+
 ### 💻 Checking the `code .` command works.
 
 We tried to install it through VSC earlier. It doesn't always work, so let's check! 
