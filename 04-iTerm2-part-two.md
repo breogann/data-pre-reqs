@@ -14,6 +14,13 @@ That's it! You now know how to access your `.zshrc` file.
 3. Substitute that name for `agnoster`
 4. You should have a line like: `ZSH_THEME="agnoster"`
 5. Save: `cmmd + s`.
+
+### 💻 More configuration for agnoster
+
+1. Open your Terminal.
+2. Do `cmmd + ,`
+3. Go to Profiles > Text
+4. Check the box for Use built-in Powerline glyphs
 ### 💻 Checking the `code .` command works.
 
 We tried to install it through VSC earlier. It doesn't always work, so let's check! 
@@ -51,13 +58,6 @@ This section is only necessary if the command didn't work.
 7. Open iTerm2 and write: `hello`.
 
 Your output should be: Hello world! If it is, congrats! You just created your first alias. 
-
-### 💻 More configuration
-
-1. Open your Terminal.
-2. Do `cmmd + ,`
-3. Go to Profiles > Text
-4. Check the box for Use built-in Powerline glyphs
 
 **Your iTerm2 is all set 🤩**
 
