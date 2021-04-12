@@ -18,9 +18,15 @@ You can either download it from their website or run this command in your termin
 ```bash
 brew install --cask spectacle
 ```
-##### Other
-You might need to install this at a given time if you use geopandas throughout the bootcamp.
+##### Geopandas
 
 ```bash
 brew install gdal
+xcode-select --install
+pip install --upgrade setuptools
+
+#Create a environment for geopandas
+conda create --name maps
+conda activate maps
+pip install geopandas
 ```
