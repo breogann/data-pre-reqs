@@ -23,7 +23,7 @@ brew install --cask spectacle
 ```bash
 brew install gdal
 xcode-select --install
-pip install --upgrade setuptools
+pip3 install --upgrade setuptools
 
 #Create a environment for geopandas
 conda create --name maps
