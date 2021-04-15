@@ -6,14 +6,13 @@ You can either leave it like that, or use **miniconda**, which is a much lighter
 
 If you want to switch, first, we'll uninstall:
 ```bash
-conda install anaconda-clean
-anaconda-clean --yes
+rm -rf ~/anaconda3
 ````
 
 #### 6.1. Installing miniconda
 ```bash
 brew install --cask miniconda
-````
+```
 
 #### 6.2. Create an environment
 
